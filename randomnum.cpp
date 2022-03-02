@@ -1,5 +1,5 @@
 //****************************************************************************
-//Programmer's Name: Destiny Jefferson
+//Programmer's Name: recylcedmechanics
 // Date: February 5, 2022
 // Program Name: Yahtzee Score Calculator
 // Program Description: This program should be able to calculate 
